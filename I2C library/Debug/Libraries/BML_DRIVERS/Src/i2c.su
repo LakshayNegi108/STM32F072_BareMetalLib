@@ -1,0 +1,9 @@
+../Libraries/BML_DRIVERS/Src/i2c.c:9:6:I2C_EN	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:13:6:I2C_DI	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:17:6:I2C_INIT	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:28:6:I2C_DEINIT	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:40:6:I2C_Scanner	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:55:6:I2C_MasterByteWrite	24	static
+../Libraries/BML_DRIVERS/Src/i2c.c:80:6:I2C_MasterByteRead	24	static
+../Libraries/BML_DRIVERS/Src/i2c.c:110:6:I2C_MasterMultiWrite	32	static
+../Libraries/BML_DRIVERS/Src/i2c.c:142:6:I2C_MasterMultiRead	24	static

@@ -1,0 +1,5 @@
+../Libraries/BML_DRIVERS/Src/i2c.c:9:6:I2C_INIT	16	static
+../Libraries/BML_DRIVERS/Src/i2c.c:21:6:I2C_byteWrite	24	static
+../Libraries/BML_DRIVERS/Src/i2c.c:49:6:I2C_byteRead	24	static
+../Libraries/BML_DRIVERS/Src/i2c.c:80:6:I2C_MultiWrite	32	static
+../Libraries/BML_DRIVERS/Src/i2c.c:112:6:I2C_MultiRead	24	static
